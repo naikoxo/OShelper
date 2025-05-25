@@ -26,6 +26,7 @@ pip install googletrans==3.1.0a0
 pip install python-dotenv
 pip install pyowm
 pip install scikit-learn
+также есть библиотеки в GUI_2.py, их уже сами смотрите
 
 (В случае проблемы с pyaudio, исправьте её загрузив файл в папку с проектом, установку можно будет запустить с помощью подобной команды:
 pip install PyAudio-0.2.11-cp38-cp38m-win_amd64.whl)
